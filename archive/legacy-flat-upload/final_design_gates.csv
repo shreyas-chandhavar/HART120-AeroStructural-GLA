@@ -1,0 +1,11 @@
+Design_Gate,Pass
+Structural package within +30% mass budget,True
+Positive induced-drag benefit,True
+Positive total cruise-drag benefit,True
+Positive 3000-km mission fuel benefit,True
+P05 envelope GLA >= 10%,True
+P95 controlled load below project target,True
+Absolute load robustness >= 95%,True
+Envelope GLA robustness >= 95%,True
+Actuator robustness >= 95%,True
+Joint robustness >= 95%,True

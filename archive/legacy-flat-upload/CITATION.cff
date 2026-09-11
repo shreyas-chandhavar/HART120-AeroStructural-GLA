@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this conceptual study, please cite the repository."
+title: "HART-120: Flexible High-Aspect-Ratio Wing & Robust Gust-Load Alleviation"
+type: software
+authors:
+  - family-names: "Chandhavar"
+    given-names: "Shreyas G."
+year: 2026
+license: MIT
+repository-code: "https://github.com/shreyas-chandhavar"
